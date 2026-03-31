@@ -1,10 +1,10 @@
 # Medicine Recommendation System
 
-Name:Ayush Raj
-Reg. No: 25BAI11407
-Branch: CSE AI & ML
-Course: AI & ML (CSA2001)
-Year: 1st Year — VIT Bhopal
+**Name:** Ayush Raj
+**Reg. No:** 25BAI11407
+**Branch:** CSE AI & ML
+**Course:** AI & ML (CSA2001)
+**Year:** 1st Year — VIT Bhopal
 
 
 ## Why I built this
@@ -156,4 +156,6 @@ This project helped me understand how ML models are trained, compared and deploy
 
 
 
+## Author
 
+Ayush Raj — VIT Bhopal, AI/ML course BYOP submission.
