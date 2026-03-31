@@ -1,0 +1,42 @@
+Disease,Medicine_1,Medicine_2,Medicine_3,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+Fungal infection,Antifungal Cream,Fluconazole,Clotrimazole,bath twice,use detol or neem in bathing water,keep infected area dry,use clean cloths
+Allergy,Cetirizine,Loratadine,Fexofenadine,apply calamine,cover area with bandage,use ice to compress,avoid cold food
+GERD,Omeprazole,Pantoprazole,Antacid,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise
+Chronic cholestasis,Ursodeoxycholic acid,Cholestyramine,Vitamins,cold baths,anti itch medicine,consult doctor,follow up
+Drug Reaction,Antihistamines,Corticosteroids,Epinephrine,stop irritation,consult nearest hospital,stop taking drug,follow up
+Peptic ulcer disease,Omeprazole,Amoxicillin,Antacid,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol
+AIDS,Antiretroviral drugs,Tenofovir,Lamivudine,avoid open cuts,wear ppe if possible,consult doctor,follow up
+Diabetes,Metformin,Insulin,Glipizide,have balanced diet,exercise,consult doctor,follow up
+Gastroenteritis,ORS,Loperamide,Probiotics,stop eating solid food for a while,try taking small sips of water,rest,ease back into eating
+Bronchial Asthma,Salbutamol,Montelukast,Budesonide,switch to loose clothing,take deep breaths,get away from trigger,seek help
+Hypertension,Amlodipine,Losartan,Atenolol,meditation,salt baths,reduce stress,get proper sleep
+Migraine,Sumatriptan,Ibuprofen,Paracetamol,meditation,reduce stress,use poloroid glasses in sun,consult doctor
+Cervical spondylosis,Ibuprofen,Muscle relaxants,Physiotherapy,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor
+Paralysis (brain hemorrhage),Physical therapy,Aspirin,Blood thinners,massage,eat healthy,exercise,consult doctor
+Jaundice,Antiviral drugs,Liver supplements,ORS,drink plenty of water,consume milk thistle,eat fruits and high fiberous food,medication
+Malaria,Chloroquine,Artemisinin,Doxycycline,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos away
+Chicken pox,Acyclovir,Calamine lotion,Paracetamol,use neem in bathing,consume neem leaves,take vaccine,avoid public places
+Dengue,Paracetamol,ORS,Platelet transfusion,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated
+Typhoid,Ciprofloxacin,Azithromycin,Ceftriaxone,eat high calorie vegitables,antibiotic therapy,consult doctor,medication
+hepatitis A,Antiviral drugs,Liver supplements,ORS,consult nearest hospital,wash hands through,avoid fatty spicy food,medication
+Hepatitis B,Tenofovir,Entecavir,Interferon,consult nearest hospital,vaccination,eat healthy,medication
+Hepatitis C,Sofosbuvir,Ribavirin,Interferon,Consult nearest hospital,vaccination,eat healthy,medication
+Hepatitis D,Interferon alpha,Liver transplant,Antiviral,consult doctor,medication,eat healthy,follow up
+Hepatitis E,ORS,Liver supplements,Rest,stop alcohol consumption,rest,consult doctor,medication
+Alcoholic hepatitis,Corticosteroids,Pentoxifylline,Liver transplant,stop alcohol consumption,consult doctor,medication,follow up
+Tuberculosis,Isoniazid,Rifampicin,Pyrazinamide,cover mouth,consult doctor,medication,rest
+Common Cold,Paracetamol,Antihistamines,Cough syrup,drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check
+Pneumonia,Amoxicillin,Azithromycin,Ceftriaxone,consult doctor,medication,rest,follow up
+Dimorphic hemmorhoids(piles),Hydrocortisone cream,Stool softeners,Fiber supplements,avoid fatty spicy food,consume witch hazel,warm bath with epsom salt,consume alovera juice
+Heart attack,Aspirin,Nitroglycerin,Beta-blockers,call ambulance,chew or swallow asprin,keep calm,inform to the concerned person
+Varicose veins,Compression stockings,Sclerotherapy,Laser treatment,lie down flat and raise the leg high,use ointments,use vein compression,dont stand still for long
+Hypothyroidism,Levothyroxine,Liothyronine,Selenium supplements,reduce stress,exercise,eat healthy,get proper sleep
+Hyperthyroidism,Methimazole,Propylthiouracil,Beta-blockers,eat healthy,get regular checkups,massage,use lemon balm
+Hypoglycemia,Glucose tablets,Glucagon,Orange juice,lie down on side,check for confusion,drink sugary drinks,consult doctor
+Osteoarthritis,Ibuprofen,Glucosamine,Physiotherapy,acetaminophen,consult doctor,follow up,salt baths
+Arthritis,Ibuprofen,Methotrexate,Hydroxychloroquine,exercise,use hot and cold therapy,try acupuncture,massage
+Vertigo,Meclizine,Betahistine,Diazepam,lie down,avoid sudden change in body movement,avoid abrupt head movment,relax
+Acne,Benzoyl peroxide,Salicylic acid,Adapalene,bath twice,avoid fatty spicy food,drink plenty of water,avoid too many products
+Urinary tract infection,Ciprofloxacin,Nitrofurantoin,Trimethoprim,drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics
+Psoriasis,Topical corticosteroids,Methotrexate,Cyclosporine,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths
+Impetigo,Mupirocin,Amoxicillin,Cephalexin,soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth,consult doctor
